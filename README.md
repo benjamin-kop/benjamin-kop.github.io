@@ -6,7 +6,7 @@
 
 👯 I am looking to collaborate on all things ultrasound. It is so important that researchers using this technique come together as a community to facilitate the swift and well-founded development of TUS. By working together, we can improve the quality of research in the field and hopefully circumvent some of the hurdles that alternative non-invasive brain stimulation techniques have faced in the past. I recommend everyone working with transcranial ultrasound to look into ITRUSST and please feel free to reach out to me to get into contact with the organization! 
 
-📫 You can reach me by email at: mailto:benjamin.kop@donders.ru.nl
+📫 You can reach me by email at: benjamin.kop@donders.ru.nl
 
 <!--
 **benjamin-kop/benjamin-kop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
