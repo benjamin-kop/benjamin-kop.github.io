@@ -1,2 +1,24 @@
-# benjamin-kop.github.io
-Testing2
+### Hi there!
+
+🔭 I am working with transcranial ultrasonic stimulation (TUS) at the Donders Institute together with Dr. Lennart Verhagen. My research focuses (get it?) on TUS applied to the motor system. Currently, my projects investigate the neuromodulatory outcome of TUS on the primary motor cortex by means of combined TUS-TMS. Here, I hope to explore more of the vast parameter space left unstudied and further aim to elucidate the temporal dynamics of TUS neuromodulation! Later, I'll also begin with neuromodulation of the basal ganglia in relation to decision and motor control. 
+
+🌱 I am currently learning lot, all at once! I am learning about optimized MR skull imaging (think UTE, etc.), skull segmentation, simulations of acoustic wave propagation and thermal rise, the use of Signal (CED) and MATLAB in a practical experimental environment, how to set up a lab from scratch, neuronavigation tools, decision making, ultrasound in general, and most importantly, I am learning to hone my untangling skills and cord-coiling skills to an inhuman level. 
+
+👯 I am looking to collaborate on all things ultrasound. It is so important that researchers using this technique come together as a community to facilitate the swift and well-founded development of TUS. By working together, we can improve the quality of research in the field and hopefully circumvent some of the hurdles that alternative non-invasive brain stimulation techniques have faced in the past. I recommend everyone working with transcranial ultrasound to look into ITRUSST and please feel free to reach out to me to get into contact with the organization! 
+
+📫 You can reach me by email at: mailto:benjamin.kop@donders.ru.nl
+
+<!--
+**benjamin-kop/benjamin-kop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
